@@ -1,0 +1,15 @@
+.cache
+.config
+.dotnet
+.keras
+.local
+.npm
+.pyenv
+.ssh
+.vscode*
+rasa_env
+.bash*
+.profile
+.wget*
+.rasa
+.gitconfig
